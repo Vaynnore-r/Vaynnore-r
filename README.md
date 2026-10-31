@@ -6,7 +6,7 @@ Star Ripuntu and glqs. peace
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Vaynnore.official) 
 
 # 💻 Tech Stack:
-![C](./c.svg) ![Bash Script](./bash.svg) ![GitHub](./github.svg) ![PKSM](./PKSM.svg) ![Git](./git.svg) ![Riot Games](./riot.svg) ![Epic Games](./epic.svg) ![Steam](./steam.svg)
+![C](./c.svg) ![Bash Script](./bash.svg) ![GitHub](./github.svg) ![Git](./git.svg) ![PKSM](./PKSM.svg) ![Riot Games](./riot.svg) ![Epic Games](./epic.svg) ![Steam](./steam.svg)
 ![nVIDIA](./nvidia.svg) [![Arch](./arch.svg)](#)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Vaynnore-r&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
